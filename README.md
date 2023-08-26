@@ -1,4 +1,4 @@
-#Thomas High School & District Analysis
+# Thomas High School & District Analysis
 
 ---
 
