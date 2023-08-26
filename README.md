@@ -1,0 +1,5 @@
+School District Analysis
+--
+**Overview of School District Analysis**
+
+In this analysis, I assisted the school board to analyze results based on various key metrics to identify how each school has performed in Math, and Readings. Also, there were other detaild analysis of spend, budget per school, and how that may have impacted students, students' results. Unfortunately, there was evidence of academic dishonesty; reading and math grades for Thomas High School (THS). Specifically, THS ninth graders appear to have been altered. Although the school board unaware of the full degree of academic dishonesty, they want to uphold state-testing standards. As a result, I needed to use methods which will assist in obtaining results per state-testing standard yet provide the analysis for the rest of the schools in the board in many required metrics. In my analysis, I have replaced the math and reading scores for Thomas High School with NaNs(not available) while keeping the rest of the data intact to get the desired output.
