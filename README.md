@@ -1,10 +1,12 @@
-Thomas High School & District Analysis
+#Thomas High School & District Analysis
 
---
+---
 
 **Overview of School District Analysis**
 
 In this analysis, I helped the school board to examine outcomes using various essential metrics, aiming to discern the performance levels of individual schools in Mathematics and Reading. Regrettably, indications of academic dishonesty came to light, specifically concerning the Math and Reading grades of ninth-grade students at Thomas High School (THS). This raised concerns about data integrity. To uphold the state-testing standards, I employed methodologies that would produce a valid analyses for the entire school board while addressing the data discrepancies at THS. To achieve this, I substituted NaNs (Not Available) for the math and reading scores of Thomas High School students, preserving the integrity of the remaining dataset and facilitating the desired outcomes.
+
+---
 
 **Results:** 
 
