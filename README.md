@@ -15,22 +15,23 @@ Because I needed to swap out the 9th-grade Math and Reading scores for Thomas Hi
 Although the exclusion of THS 9th graders caused a notable shift in Math, Reading, and Overall percentages at the school level, these changes didn't have a noticeable impact on aggregated metrics like Scores by school spending, Scores by school size, or Scores by school type. Ultimately, the total number of THS 9th graders represented just 1.18% of all students in the district. Below is a summary of the effects on all 7 metrics:
 
 - **District Summary:**
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/District%20Summary.png" width="1000" height="80"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/District%20Summary.png" width="1000" height="70"> 
 
 - **School Summary:**
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/School%20Summary%20THS.png" width="1000" height="300"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/School%20Summary%20THS.png" width="1000" height="250"> 
 
 - **Thomas High School Ranking:**  
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/THS%20Ranking.png" width="1000" height="300"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/THS%20Ranking.png" width="1000" height="250"> 
 
 - **Scores by School Spending:** Results remained unchanged
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/Spend%20Summary%20by%20Scores.png" width="1000" height="250"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/Spend%20Summary%20by%20Scores.png" width="950" height="210"> 
 
 - **Scores by  School Size:** Results remained unchanged 
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Size%20by%20Score.png" width="1000" height="190">
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Size%20by%20Score.png" width="900" height="170">
 
 - **Scores by School Type:** Results remained unchanged 
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Type%20by%20Scores.png" width="1000" height="150"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Type%20by%20Scores.png" width="900" height="130"> 
+
 --- 
 
 ### Data Dictionary
