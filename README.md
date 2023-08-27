@@ -14,6 +14,15 @@ Because I needed to swap out the 9th-grade Math and Reading scores for Thomas Hi
 
 Although the exclusion of THS 9th graders caused a notable shift in Math, Reading, and Overall percentages at the school level, these changes didn't have a noticeable impact on aggregated metrics like Scores by school spending, Scores by school size, or Scores by school type. Ultimately, the total number of THS 9th graders represented just 1.18% of all students in the district. Below is a summary of the effects on all 7 metrics:
 
+- **District Summary:**
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/District%20Summary.png" width="1000" height="80"> 
+
+- **School Summary:**
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/School%20Summary%20THS.png" width="1000" height="300"> 
+
+- **Thomas High School Ranking:** 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/THS%20Ranking.png" width="1000" height="300"> 
+
 
 --- 
 
