@@ -12,9 +12,9 @@ In this analysis, I helped the school board to examine outcomes using various es
 
 The decision to exclude Math and Reading scores of 9th graders from Thomas High School (THS) had a minimal effect on both the overall district-wide results and the results specific to THS.
 
-Before the exclusion, the average passing percentages for Math and Reading at THS were 93.27% and 97.31%. However, after the removal of 9th grade scores, these percentages saw a slight decline to 93.18% for Math and 97.02% for Reading. District-wide results also experienced a slight decrease, shifting Math and Reading passing percentages from 75.0% and 85.8% to 74.8% and 85.7% respectively.
+Before the exclusion, the average passing percentages for Math and Reading at THS were 93.27% and 97.31%. After the removal of 9th grade scores, these percentages saw a slight decline to 93.18% for Math and 97.02% for Reading. District-wide results also experienced a slight decrease, shifting Math and Reading passing percentages from 75.0% and 85.8% to 74.8% and 85.7% respectively.
 
-Importantly, the omission of THS's 9th grade scores did not significantly impact the school-level percentages for Math, Reading, and Overall scores. Similarly, there was no discernible effect on aggregated metrics such as Scores by school spending, Scores by school size, or Scores by school type. The following summary outlines the impact on all seven metrics
+The omission of THS's 9th grade scores did not significantly impact the school-level percentages for Math, Reading, and Overall scores. Similarly, there was no discernible effect on aggregated metrics such as Scores by school spending, Scores by school size, or Scores by school type. The following summary outlines the impact on all seven metrics
 
 - **District Summary:**
 <img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/District%20Summary.png" width="1000" height="70"> 
