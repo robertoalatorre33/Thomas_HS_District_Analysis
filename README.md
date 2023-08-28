@@ -10,9 +10,11 @@ In this analysis, I helped the school board to examine outcomes using various es
 
 ### Results:
 
-Because I needed to swap out the 9th-grade Math and Reading scores for Thomas High School (THS) with NaNs, this change had a slight effect on the overall results across the district. The average scores and passing percentages across the district experienced a minor decrease. Initially, prior to the replacement of the 9th-grade Math and Reading scores, THS had averages of 66.91% and 69.66% for Math and Reading, respectively. Adjusting these averages for Math and Reading to 93.18% and 97.13%, respectively, resulted in an overall passing percentage of 90.63%.
+The decision to exclude Math and Reading scores of 9th graders from Thomas High School (THS) had a minimal effect on both the overall district-wide results and the results specific to THS.
 
-Although the exclusion of THS 9th graders caused a notable shift in Math, Reading, and Overall percentages at the school level, these changes didn't have a noticeable impact on aggregated metrics like Scores by school spending, Scores by school size, or Scores by school type. Ultimately, the total number of THS 9th graders represented just 1.18% of all students in the district. Below is a summary of the effects on all 7 metrics:
+Before the exclusion, the average passing percentages for Math and Reading at THS were 93.27% and 97.31%. However, after the removal of 9th grade scores, these percentages saw a slight decline to 93.18% for Math and 97.02% for Reading. District-wide results also experienced a slight decrease, shifting Math and Reading passing percentages from 75.0% and 85.8% to 74.8% and 85.7% respectively.
+
+Importantly, the omission of THS's 9th grade scores did not significantly impact the school-level percentages for Math, Reading, and Overall scores. Similarly, there was no discernible effect on aggregated metrics such as Scores by school spending, Scores by school size, or Scores by school type. The following summary outlines the impact on all seven metrics
 
 - **District Summary:**
 <img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/District%20Summary.png" width="1000" height="70"> 
