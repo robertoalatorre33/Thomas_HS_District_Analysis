@@ -26,13 +26,13 @@ The omission of THS's 9th grade scores did not significantly impact the school-l
 <img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/THS%20Ranking.png" width="1000" height="250"> 
 
 - **Scores by School Spending:** Results remained unchanged
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/Spend%20Summary%20by%20Scores.png" width="950" height="210"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/Spend%20Summary%20by%20Scores.png" width="950" height="190"> 
 
 - **Scores by  School Size:** Results remained unchanged 
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Size%20by%20Score.png" width="900" height="170">
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Size%20by%20Score.png" width="900" height="150">
 
 - **Scores by School Type:** Results remained unchanged 
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Type%20by%20Scores.png" width="900" height="130"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/70216ece5dcc625234f00d49ff7c5927971b9003/Results_Table_View/School%20Type%20by%20Scores.png" width="900" height="120"> 
 
 --- 
 
