@@ -20,7 +20,7 @@ The omission of THS's 9th grade scores did not significantly impact the school-l
 <img src= "https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/d04733e14e7620a00f3d77f83ecf22c89559d702/Results_Table_View/District_summary.jpg" width="1000" height="90"> 
 
 - **School Summary:**
-<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/School%20Summary%20THS.png" width="1000" height="250"> 
+<img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/00c6ffea9c45c587c44fafb8bd525157ecd10457/Results_Table_View/School_summary.jpg" width="1000" height="350"> 
 
 - **Thomas High School Ranking:**  
 <img src="https://github.com/robertoalatorre33/Thomas_HS_District_Analysis/blob/756f683053241e765a176a84a73a6d38ebd4f2d8/Results_Table_View/THS%20Ranking.png" width="1000" height="250"> 
